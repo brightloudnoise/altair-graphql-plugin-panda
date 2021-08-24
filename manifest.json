@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name" : "altair-graphql-plugin-template",
+  "version" : "1.0.0",
+  "display_name": "Altair Plugin Template",
+  "description" : "Altair Plugin Template plugin for Altair GraphQL",
+  "author_email" : "altair@sirmuel.design",
+  "author" : "Altair GraphQL Client",
+  "plugin_class": "TemplateClass",
+  "scripts": [
+    "dist/index.js"
+  ],
+  "styles": [
+  ]
+}
